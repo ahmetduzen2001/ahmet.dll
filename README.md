@@ -18,6 +18,7 @@ The purpose of this archive is to document the "Digital Habitat" where humanity 
 ## 02. CORE REPOSITORY STRUCTURE (SYSTEM INDEX)
 ### A. GLOBAL DOMINANCE FRAMEWORKS (The Macro-Level)
 * [**X-PROTOCOL: HUMANITY IN CHAINS**](xprotocol_humanity_in_chains.md): Strategic deconstruction of corporate-driven digital captivity and holistic data-harvesting.
+* [`xprotocol_humanity_in_chains_EN.md`](xprotocol_humanity_in_chains_EN.md) :  (Top-Secret-Human-Readable).
 * [**UNCONTROLLED ANARCHY**](xprotocol_uncontrolled_anarchy.md): Epistemic collapse report: The transition from informational chaos to neo-fascism.
 
 ## 03. ANALYTICAL DEVIANCE: WHY THIS DATA WILL SURPRISE YOU
