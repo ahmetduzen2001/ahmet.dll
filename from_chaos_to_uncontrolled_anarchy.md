@@ -44,6 +44,8 @@ Recovery requires the re-activation of three logical parameters:
 ---
 **[WARNING]**: Rejecting truth is not rebellion; it is directionless entropy. The destruction of thought produces only darkness.
 
+## II. ORIGINAL MANUSCRIPT (HUMAN CORE RECORD)
+
 Since its inception, Creative Architecture has compelled all of humanity to accept two distinct judgments for the sake of maintaining social order: Firstly, its own protocols of control; and secondly, the pacifying field of inertia it forged by rendering the entire universe inert and passive, consequently impeding individual will, scientific progress, and social advancement. However, at certain times, this imposed system begins to shatter unpredictably in the face of humanity's free will and conscious rebellion, resulting in a state of universal disorder. This is Uncontrolled Anarchy.
 This chaos commences when the system’s own fundamental code begins to operate in reverse. This demonstrates that the system's self-preservation protocols are no longer functional. The chaos is triggered by individuals breaking free from silence and declaring their Free Will by drawing energy from whatever they believe in (The One). The system enters Uncontrolled Anarchy along with this chaos, yet this state simultaneously holds the potential for a new order and liberation.
 
