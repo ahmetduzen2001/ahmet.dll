@@ -20,7 +20,7 @@ The theory operates on the following parameters:
 
 ## 03. REPOSITORY STRUCTURE (DOSYA YAPISI)
 - [`theory_full_text.md`](theory_full_text.md) : Detailed systemic analysis of the Neural Lock mechanism.
-- [`xprotocol_humanity_in_chains.md`](xprotocol_humanity_in_chains.md) : Analysis of modern existential constraints.
+- [`xprotocol_humanity_in_chains.md`](xprotocol_humanity_in_chains.md) : Detailed systemic analysis of the X-Protocol and global digital captivity.
 - `/case_studies` : Behavioral data logs (e.g., "The Awakening of Melis").
 - `/protocols` : Existential recovery and "Unbolting" procedures.
 - `/logs` : Cyber-philosophical field notes by **Ahmet.dll**.
