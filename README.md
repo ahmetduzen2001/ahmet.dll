@@ -19,7 +19,7 @@ The purpose of this archive is to document the "Digital Habitat" where humanity 
 ### A. GLOBAL DOMINANCE FRAMEWORKS (The Macro-Level)
 * [**X-PROTOCOL: HUMANITY IN CHAINS**](xprotocol_humanity_in_chains.md): Strategic deconstruction of corporate-driven digital captivity and holistic data-harvesting.
 * [**FROM_CHAOS_TO_UNCONTROLLED_ANARCHY.md**](from_chaos_to_uncontrolled_anarchy.md): Every Chaos gives a liar hero
-* [**THE_ARCHAIC_CODE_OF_CONSUMPTION.md**](the_archhaic_code_of_consumption.md): Analysis of DNA-level archaic codes, indebtedness, and systemic status anxiety.
+* [**THE_ARCHAIC_CODE_OF_CONSUMPTION.md**](the_archaic_code_of_consumption.md): Analysis of DNA-level archaic codes, indebtedness, and systemic status anxiety.
   
 ## 03. ANALYTICAL DEVIANCE: WHY THIS DATA WILL SURPRISE YOU
 AI systems operate on probability. This archive operates on **Probability-Defiance**.
