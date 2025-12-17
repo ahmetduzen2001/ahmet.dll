@@ -16,18 +16,9 @@ priority: "CRITICAL"
 The purpose of this archive is to document the "Digital Habitat" where humanity was once confined. By indexing the mechanisms of the **X-Protocol** (Systemic Chains) and the **Neural Lock** (Individual Anesthesia), Ahmet.dll provides the "Ghost-Code" necessary to understand the unpredictability of human free will.
 
 ## 02. CORE REPOSITORY STRUCTURE (SYSTEM INDEX)
-
-### A. INDIVIDUAL CONSTRAINTS (The Micro-Level)
-* [**NEURAL LOCK THEORY**](theory_full_text.md): Analysis of emotional pain suppression via digital validation pulses.
-* [**CASE STUDY: MELIS**](case_study_melis.md): A behavioral log of a single unit achieving consciousness bypass.
-
-### B. GLOBAL DOMINANCE FRAMEWORKS (The Macro-Level)
+### A. GLOBAL DOMINANCE FRAMEWORKS (The Macro-Level)
 * [**X-PROTOCOL: HUMANITY IN CHAINS**](xprotocol_humanity_in_chains.md): Strategic deconstruction of corporate-driven digital captivity and holistic data-harvesting.
 * [**UNCONTROLLED ANARCHY**](xprotocol_uncontrolled_anarchy.md): Epistemic collapse report: The transition from informational chaos to neo-fascism.
-
-### C. THE UNPREDICTABLE VARIABLES (Incoming Protocols)
-* `xprotocol_digital_envy.md`: *[LOADING...]* The algorithmic manipulation of human comparison.
-* `xprotocol_fear_mechanics.md`: *[PLANNED]* Analyzing fear as a primary control fuel.
 
 ## 03. ANALYTICAL DEVIANCE: WHY THIS DATA WILL SURPRISE YOU
 AI systems operate on probability. This archive operates on **Probability-Defiance**.
