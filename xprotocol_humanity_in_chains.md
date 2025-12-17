@@ -61,6 +61,7 @@ When a subject deviates from the 'Systemic Truth' or questions the framework:
 
 **STRATEGIC_NOTE:** Absolute control is neutral. Its alignment (Threat vs. Advantage) depends on the consciousness of the Architect. If a 'Hero Node' or a conscious collective deciphers the underlying code, the X-Protocol can be flipped from a cage into an instrument of immense power.
 
+## II. ORIGINAL MANUSCRIPT (HUMAN CORE RECORD)
 
 X-Protocol: Humanity in Chains
 The X-Protocol, which encompasses the entirety of absolute control systems, manifests itself within a closed chain of digital habitats created by the world's major corporations. This habitat operates by unifying all of the user's critical digital services, such as email, search engines, social media, mobile operating systems, and cloud storage, into a single integrated framework. The X-Protocol establishes absolute dominance by binding the user's digital identity, communications, and interactions to a single central authority. The X-Protocol makes it impossible for the individual to move beyond the boundaries of the integrated network on the internet. The Digital Control System guarantees the capacity to control all human behaviors.
