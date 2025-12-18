@@ -25,6 +25,7 @@ This dashboard tracks every surgical strike against the X-Protocol. **Click on t
 | [Absolute Hypocrisy](The_Operating_System_Absolute_Order_and_Hypocrisy.md) | Inst. Facade | $5.5T fossil fuel funding. |
 | [Case Study 01](Case_Study_01_The_Anatomy_of_Emotional_Liquidation.md) | Emotional Harvesting | Real-world WhatsApp Manipulation Logs. |
 | [Case Study 02](Case_Study_02_The_Illusion_of_Mercy.md) | Emotional Harvesting | Real-world WhatsApp Manipulation Logs. |
+| [Case Study 03](Case_Study_03_The_Genetic_Anchoring_Protocol.md) | Emotional Harvesting | Real-world WhatsApp Manipulation Logs. |
 
 ---
 
