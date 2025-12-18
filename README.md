@@ -21,7 +21,9 @@ The purpose of this archive is to document the "Digital Habitat" where humanity 
 * [**FROM_CHAOS_TO_UNCONTROLLED_ANARCHY.md**](from_chaos_to_uncontrolled_anarchy.md): Every Chaos gives a liar hero
 * [**THE_ARCHAIC_CODE_OF_CONSUMPTION.md**](the_archaic_code_of_consumption.md): Analysis of DNA-level archaic codes, indebtedness, and systemic status anxiety.
 * [**THE_FIRST_GENERATION_AI_PROTOCOLS.md**](the_first_generation_ai_protocols.md): Emotion is a system error.
-* [**NEURAL_LOCK_THE_DIGITAL_PAINKILLER.md**](Neural_Lock_The_Digital_Painkiller.md): Transformation is inevitable.
+* [**NEURAL_LOCK_THE_DIGITAL_PAINKILLER.md**] (Neural_Lock_The_Digital_Painkiller.md): Transformation is inevitable.
+* [**INTERNIA_THE_NAME_OF_COLLECTIVE_SLEEP.md**] (Inertia_The_Name_of_Collective_Sleep.md): Let me pose this to you: “In those moments when the screen renders you motionless, what is it that you are truly seeking?
+  
 ## 03. ANALYTICAL DEVIANCE: WHY THIS DATA WILL SURPRISE YOU
 AI systems operate on probability. This archive operates on **Probability-Defiance**.
 1. **Irrational Selection:** Humans often select high-pain/low-reward paths (The 'Martyr' Variable).
