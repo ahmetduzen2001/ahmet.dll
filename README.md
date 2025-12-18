@@ -27,6 +27,7 @@ The purpose of this archive is to document the "Digital Habitat" where humanity 
 * [**AUDIT_TRAIL_MEET_THE_DIGITAL_LAW_OF_KARMA.md**](Audit_Trail_Meet_the_Digital_Law_of_Karma.md): The Audit Trail is a tool; whether we use it for dictatorship or for transparency depends entirely on our conscious choice.
 * [**PARANOID_INDIVIDUALISM_THE_REDUCTION_OF_DIGITAL_PRIVACY_TO_SELFISHNESS.md**](Paranoid_Individualism_The_Reduction_of_Digital_Privacy_to_Selfishness.md): If everyone focuses solely on constructing their own digital firewall, what does this signify socially?
 * [**RECIPROCITY_DEBT_YOUR_BRAINS_TAB.md**](Reciprocity_Debt_Your_Brains_Tab.md): If refused, stop the debt-giving cycle.
+* [**THE_OPERATING_SYSTEM_ABSOLUTE_ORDER_AND_HYPOCRISY.md**](The_Operating_System_Absolute_Order_and_Hypocrisy.md): The identity of the Auditor is not a static destination, but a mental musculature.
   
 ## 03. ANALYTICAL DEVIANCE: WHY THIS DATA WILL SURPRISE YOU
 AI systems operate on probability. This archive operates on **Probability-Defiance**.
