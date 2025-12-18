@@ -24,6 +24,7 @@ The purpose of this archive is to document the "Digital Habitat" where humanity 
 * [**NEURAL_LOCK_THE_DIGITAL_PAINKILLER.md**](Neural_Lock_The_Digital_Painkiller.md): Transformation is inevitable.
 * [**INTERNIA_THE_NAME_OF_COLLECTIVE_SLEEP.md**](Inertia_The_Name_of_Collective_Sleep.md): Let me pose this to you: “In those moments when the screen renders you motionless, what is it that you are truly seeking?
 * [**THE_STATIC_ARMOR_BREAKING_GUIDE.md**](The_Static_Armor_Breaking_Guide.md): Can you regularly renew your armor, or are you becoming mummified within it?
+* [**AUDIT_TRAIL_MEET_THE_DIGITAL_LAW_OF_KARMA.md**](Audit_Trail_Meet_the_Digital_Law_of_Karma.md): The Audit Trail is a tool; whether we use it for dictatorship or for transparency depends entirely on our conscious choice.
   
 ## 03. ANALYTICAL DEVIANCE: WHY THIS DATA WILL SURPRISE YOU
 AI systems operate on probability. This archive operates on **Probability-Defiance**.
