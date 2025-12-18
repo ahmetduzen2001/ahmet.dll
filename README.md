@@ -23,6 +23,7 @@ This dashboard tracks every surgical strike against the X-Protocol. **Click on t
 | [Reciprocity Debt](Reciprocity_Debt_Your_Brains_Tab.md) | Neural Hijacking | ACC and Insula modulation. |
 | [Neural Lock](Neural_Lock_The_Digital_Painkiller.md) | Analgesia | NAcc activation / Likes. |
 | [Absolute Hypocrisy](The_Operating_System_Absolute_Order_and_Hypocrisy.md) | Inst. Facade | $5.5T fossil fuel funding. |
+| [Case Study 01](Case_Study_01_The_Anatomy_of_Emotional_Liquidation.md) | Emotional Harvesting | Real-world WhatsApp Manipulation Logs. |
 
 ---
 
