@@ -114,11 +114,6 @@ The question remains: How many people must burn at once to reach critical mass? 
 * **Forensic Example:** The cases of Snowden and Assange demonstrate how systemic cooling is deployed to neutralize "thermal surges" through total institutional failure.
 * **Source:** *Jurist (2024). Whistleblowers as Heroes: Exposing Truth Amidst Persecution.*
 
-# Case Study: Validation of 'Intellectual Incandescence'
-**Status:** EVIDENCE_VERIFIED  
-**Lead Auditor:** Ahmet.dll
-
-
 ---
 **Lead Architect:** Ahmet.dll
 **archive_id: "D6U4Z8E4N"
