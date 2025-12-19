@@ -19,10 +19,11 @@ This dashboard tracks every surgical strike against the X-Protocol. **Click on t
 | [Collective Inertia](Inertia_The_Name_of_Collective_Sleep.md) | Neuro-Sleep | 3hr/day Dopamine loop. |
 | [Static Armor Guide](The_Static_Armor_Breaking_Guide.md) | Org. Stasis | Sunk Cost Fallacy (Kodak). |
 | [Digital Law of Karma](Audit_Trail_Meet_the_Digital_Law_of_Karma.md) | Immutability | IBM Food Trust / Blockchain. |
-| [Reduction of Privacy](Paranoid_Individualism_The_Reduction_of_Digital_Privacy_to_Selfishness.md) | Fragmentation | Chilling Effect / Censorship. |
+| [Reduction of Privacy](Paranoid_Individualism_The_Reduction_of_Digital_Privacy_to_Selfishness.md) | Fragmentation | Chilling Effect / Censorship. | Intellectual_Incandescence.md
 | [Reciprocity Debt](Reciprocity_Debt_Your_Brains_Tab.md) | Neural Hijacking | ACC and Insula modulation. |
 | [Neural Lock](Neural_Lock_The_Digital_Painkiller.md) | Analgesia | NAcc activation / Likes. |
 | [Absolute Hypocrisy](The_Operating_System_Absolute_Order_and_Hypocrisy.md) | Inst. Facade | $5.5T fossil fuel funding. |
+| [Intellectual_Incandescence](Intellectual_Incandescence.md) | Inst. Facade | $5.5T fossil fuel funding. |
 
 
 ---
