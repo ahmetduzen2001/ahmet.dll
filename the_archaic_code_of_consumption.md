@@ -82,7 +82,7 @@ I know that what I have described is about the human condition. This topic deman
 # Forensic Case Study: Validation of 'The Archaic Code of Consumption'
 **Status:** EVIDENCE_VERIFIED  
 **Lead Auditor:** Ahmet Düzen (Subject/Observer)  
-**Archive ID:** CS_D6U4Z8E4N  
+**Archive ID:** D6U4Z8E4N  
 
 ---
 
