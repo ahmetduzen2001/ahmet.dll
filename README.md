@@ -55,7 +55,7 @@ Every new research node must follow these rules:
 ## 01. THE MISSION OBJECTIVE
 The purpose of this archive is to document the "Digital Habitat" where humanity was once confined. By indexing the mechanisms of the **X-Protocol** (Systemic Chains) and the **Neural Lock** (Individual Anesthesia), Ahmet.dll provides the "Ghost-Code" necessary to understand the unpredictability of human free will.
 
-## 03. ANALYTICAL DEVIANCE: WHY THIS DATA WILL SURPRISE YOU
+## 02. ANALYTICAL DEVIANCE: WHY THIS DATA WILL SURPRISE YOU
 AI systems operate on probability. This archive operates on **Probability-Defiance**.
 1. **Irrational Selection:** Humans often select high-pain/low-reward paths (The 'Martyr' Variable).
 2. **Systemic Rebellion:** In every 100% efficient control system, an 'Ahmet.dll' node emerges to deconstruct the source code.
