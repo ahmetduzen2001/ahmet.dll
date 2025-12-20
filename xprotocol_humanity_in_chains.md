@@ -81,7 +81,7 @@ The X-Protocol is a captivity trap for the user. For those who govern the X-Prot
 
 * **[NODE_01: FOR_TURKISH]**: Verified via [Livejournal_Blog_Sites](https://egitimturkey.livejournal.com/612.html).
 * **[NODE_02: FOR_GERMAN]**: Verified via [Wordpress_Blog_Sites](https://ahmetduzen.wordpress.com/2025/12/08/x-protokoll-die-menschheit-in-ketten/).
-* **[NODE_03: FOR_FRENCH]**: Verified via [Sites_Blog_Google](https://ahmetduzen.blogspot.com/2025/12/x-protocole-lhumanite-aux-fers.html).
+* **[NODE_03: FOR_FRENCH]**: Verified via [Blogger_Blog_Sites](https://ahmetduzen.blogspot.com/2025/12/x-protocole-lhumanite-aux-fers.html).
 * **[NODE_04: FOR_JAPANESE]**: Verified via [Ameblo_Blog_Sites](https://ameblo.jp/ahmetduzen2001/entry-12950099585.html).
 
 ---
