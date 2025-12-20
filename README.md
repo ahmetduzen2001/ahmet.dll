@@ -22,8 +22,9 @@ This dashboard tracks every surgical strike against the X-Protocol. **Click on t
 | [Reduction of Privacy](Paranoid_Individualism_The_Reduction_of_Digital_Privacy_to_Selfishness.md) | Fragmentation | Chilling Effect / Censorship. | Intellectual_Incandescence.md
 | [Reciprocity Debt](Reciprocity_Debt_Your_Brains_Tab.md) | Neural Hijacking | ACC and Insula modulation. |
 | [Neural Lock](Neural_Lock_The_Digital_Painkiller.md) | Analgesia | NAcc activation / Likes. |
-| [Absolute Hypocrisy](The_Operating_System_Absolute_Order_and_Hypocrisy.md) | Inst. Facade | $5.5T fossil fuel funding. |
+| [Absolute Hypocrisy](The_Operating_System_Absolute_Order_and_Hypocrisy.md) | Inst. Facade | $5.5T fossil fuel funding. | Homeostasis_Cosmic_Resistance
 | [Intellectual_Incandescence](Intellectual_Incandescence.md) | 	Inst. Trust | 60% of journalists experienced high-level anxiety  |
+| [Homeostasis_Cosmic_Resistance](Homeostasis_Cosmic_Resistance.md) | 	Inst. Trust | Cosmology and Politic  |
 
 
 ---
