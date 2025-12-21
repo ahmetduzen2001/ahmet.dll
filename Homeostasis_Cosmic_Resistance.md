@@ -39,7 +39,7 @@ archive_id: "D6U4Z8E4N"
 
 * **[NODE_01: FOR_TURKISH]**: Verified via [Livejournal_Blog_Sites](https://egitimturkey.livejournal.com/3634.html).
 * **[NODE_02: FOR_GERMAN]**: Verified via [Wordpress_Blog_Sites](https://ahmetduzen.wordpress.com/2025/12/21/homoostase-und-kosmischer-einspruch/).
-* **[NODE_03: FOR_FRENCH]**: Verified via [https://sites.google.com/view/ahmetduzen/yayinlar-4/hom%C3%A9ostasie-et-objection-cosmique?authuser=0).
+* **[NODE_03: FOR_FRENCH]**: Verified via [Sites_Blog_Google](https://sites.google.com/view/ahmetduzen/yayinlar-4/hom%C3%A9ostasie-et-objection-cosmique?authuser=0).
 * **[NODE_04: FOR_JAPANESE]**: Verified via [Ameblo_Blog_Sites](https://ameblo.jp/ahmetduzen2001/entry-12950819873.html).
 
 ---
