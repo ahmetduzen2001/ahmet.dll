@@ -24,7 +24,7 @@ This dashboard tracks every surgical strike against the X-Protocol. **Click on t
 | [Neural Lock](Neural_Lock_The_Digital_Painkiller.md) | Analgesia | NAcc activation / Likes. |
 | [Absolute Hypocrisy](The_Operating_System_Absolute_Order_and_Hypocrisy.md) | Inst. Facade | $5.5T fossil fuel funding. | Homeostasis_Cosmic_Resistance
 | [Intellectual_Incandescence](Intellectual_Incandescence.md) | 	Inst. Trust | 60% of journalists experienced high-level anxiety  |
-| [Homeostasis_Cosmic_Resistance](Homeostasis_Cosmic_Resistance.md) | 	Inst. Trust | Cosmology and Politic  |
+| [Homeostasis_Cosmic_Dissent](Homeostasis_Cosmic_Resistance.md) | 	Inst. Trust | Cosmology and Politic  |
 
 
 ---
